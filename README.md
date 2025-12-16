@@ -19,6 +19,7 @@ It uses a **Markov chain algorithm** to generate melodies from user-selected MID
 ---
 
 ## How It Works
+<img width="600" height="642" alt="image" src="https://github.com/user-attachments/assets/6419b7f1-a93b-4ccb-8fd6-045c13c4bb5e" />
 
 1. **Select a Rhythm MIDI File**  
    - Create a rhythm pattern in your DAW and export it as MIDI.  
