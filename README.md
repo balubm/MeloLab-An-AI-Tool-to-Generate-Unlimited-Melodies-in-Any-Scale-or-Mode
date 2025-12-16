@@ -6,6 +6,7 @@ MeloLab is a lightweight, algorithm-based melody generator designed for musician
 
 It uses a **Markov chain algorithm** to generate melodies from user-selected MIDI rhythms and “flavors” (musical sequences) — fast, flexible, and computationally light.  
 
+LinkedIn Article: https://www.linkedin.com/pulse/what-composing-perfect-melody-just-click-away-balamurali-balu-jg5uc
 ---
 
 ## Features
